@@ -1,0 +1,22 @@
+{
+    "name": "workmail20/pirichain-api-php",
+    "description": "Package for base Pirichain API calls",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Workmail20\\PirichainApiPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arsenii",
+            "email": "work_mail20@protonmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6"
+    },
+    "version": "v1.0.0"
+}
